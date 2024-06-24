@@ -1,0 +1,1 @@
+# pytest-how-to-autouse-fixtures-fixtures-you-don-t-have-to-request
